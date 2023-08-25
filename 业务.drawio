@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T07:43:11.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.6" etag="HARZZVJAg166c34JgPV3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T01:56:04.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="frWtfoijwdT_1xvHeAQs" version="21.6.6" type="github">
   <diagram name="第 1 页" id="YEqHyk1h5e1aCv8CRTxZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1595" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://im-download.kwaitalk.com/rest/v2/app/download?resourceId=2706r3jt1wapbeazyicwtvpu3klwc03w6vut64t840n7guc1oset68.jpg&amp;webp=true&amp;w=420&amp;h=420&amp;userId=214298506389133&amp;did=D1AB6B31-044B-5A12-A436-13C99175E671&amp;kim.api_st=CgpraW0uYXBpLnN0EpABr85ofFGeafNCEB5pZcwBkdkzDZOXAHzGY2u79n-abqnnakKYU2JdLA99jrwRVaJbpGUd_UHuLvfdoDn5s3OvTPJ49ZAT8ib-jJ1ZOCGvxfXOFjBv5xz38nkQ0KcuvY_szep4DYXRbDLRMZ_4Fl90yWBZNaA3dSf0s1MUJBJsFFv1JzT1V9v2HAWj4mLzGlxkGhIKIKhUDkM684sVdhUBxeLrJAciIEWawHXcsueuo_w0dnodIVZJ9DrCxka3wkp7zHJkFX9MKAUwAQ&amp;kpn=KIM&amp;imsdkver=3.2.5&amp;ver=Mac%20OS%2010.15.7&amp;platform=H5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="282" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://im-download.kwaitalk.com/rest/v2/app/download?resourceId=b1z0pogipfm6e86ieanjjkajp3e5wgn3wlygondf6t2g3oni8xt4.jpg&amp;webp=true&amp;w=420&amp;h=420&amp;userId=214298506389133&amp;did=D1AB6B31-044B-5A12-A436-13C99175E671&amp;kim.api_st=CgpraW0uYXBpLnN0EpABr85ofFGeafNCEB5pZcwBkdkzDZOXAHzGY2u79n-abqnnakKYU2JdLA99jrwRVaJbpGUd_UHuLvfdoDn5s3OvTPJ49ZAT8ib-jJ1ZOCGvxfXOFjBv5xz38nkQ0KcuvY_szep4DYXRbDLRMZ_4Fl90yWBZNaA3dSf0s1MUJBJsFFv1JzT1V9v2HAWj4mLzGlxkGhIKIKhUDkM684sVdhUBxeLrJAciIEWawHXcsueuo_w0dnodIVZJ9DrCxka3wkp7zHJkFX9MKAUwAQ&amp;kpn=KIM&amp;imsdkver=3.2.5&amp;ver=Mac%20OS%2010.15.7&amp;platform=H5;" vertex="1" parent="1">
+          <mxGeometry x="410" y="50" width="282" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://im-download.kwaitalk.com/rest/v2/app/download?resourceId=254e0wg9k2hwhihicw62v7k88a5726b2sdmjidprdv8su08u4hsys4.jpg&amp;webp=true&amp;w=420&amp;h=420&amp;userId=214298506389133&amp;did=D1AB6B31-044B-5A12-A436-13C99175E671&amp;kim.api_st=CgpraW0uYXBpLnN0EpABr85ofFGeafNCEB5pZcwBkdkzDZOXAHzGY2u79n-abqnnakKYU2JdLA99jrwRVaJbpGUd_UHuLvfdoDn5s3OvTPJ49ZAT8ib-jJ1ZOCGvxfXOFjBv5xz38nkQ0KcuvY_szep4DYXRbDLRMZ_4Fl90yWBZNaA3dSf0s1MUJBJsFFv1JzT1V9v2HAWj4mLzGlxkGhIKIKhUDkM684sVdhUBxeLrJAciIEWawHXcsueuo_w0dnodIVZJ9DrCxka3wkp7zHJkFX9MKAUwAQ&amp;kpn=KIM&amp;imsdkver=3.2.5&amp;ver=Mac%20OS%2010.15.7&amp;platform=H5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="282" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://im-download.kwaitalk.com/rest/v2/app/download?resourceId=25kgcjus5kqimjsy2t46kgchej9s0tmqqcbc7pkwrkx21i7pprnbiu.jpg&amp;webp=true&amp;w=420&amp;h=420&amp;userId=214298506389133&amp;did=D1AB6B31-044B-5A12-A436-13C99175E671&amp;kim.api_st=CgpraW0uYXBpLnN0EpABr85ofFGeafNCEB5pZcwBkdkzDZOXAHzGY2u79n-abqnnakKYU2JdLA99jrwRVaJbpGUd_UHuLvfdoDn5s3OvTPJ49ZAT8ib-jJ1ZOCGvxfXOFjBv5xz38nkQ0KcuvY_szep4DYXRbDLRMZ_4Fl90yWBZNaA3dSf0s1MUJBJsFFv1JzT1V9v2HAWj4mLzGlxkGhIKIKhUDkM684sVdhUBxeLrJAciIEWawHXcsueuo_w0dnodIVZJ9DrCxka3wkp7zHJkFX9MKAUwAQ&amp;kpn=KIM&amp;imsdkver=3.2.5&amp;ver=Mac%20OS%2010.15.7&amp;platform=H5;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="50" width="282" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://im-download.kwaitalk.com/rest/v2/app/download?resourceId=25kekpyvzjec4eg4g8fqw2jz1zhsvwr66gf8jjvmpt9ufeqaxj6n8l.jpg&amp;webp=true&amp;w=420&amp;h=420&amp;userId=214298506389133&amp;did=D1AB6B31-044B-5A12-A436-13C99175E671&amp;kim.api_st=CgpraW0uYXBpLnN0EpABr85ofFGeafNCEB5pZcwBkdkzDZOXAHzGY2u79n-abqnnakKYU2JdLA99jrwRVaJbpGUd_UHuLvfdoDn5s3OvTPJ49ZAT8ib-jJ1ZOCGvxfXOFjBv5xz38nkQ0KcuvY_szep4DYXRbDLRMZ_4Fl90yWBZNaA3dSf0s1MUJBJsFFv1JzT1V9v2HAWj4mLzGlxkGhIKIKhUDkM684sVdhUBxeLrJAciIEWawHXcsueuo_w0dnodIVZJ9DrCxka3wkp7zHJkFX9MKAUwAQ&amp;kpn=KIM&amp;imsdkver=3.2.5&amp;ver=Mac%20OS%2010.15.7&amp;platform=H5;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="50" width="282" height="626" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-6" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-7" value="直播间小黄车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-8" value="商品详情页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-9" value="确认订单页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-10" value="订单详情页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dAUmgQpA2GikVwNA1-2I-11" value="购物车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
