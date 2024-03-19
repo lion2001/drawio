@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T09:52:14.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.5" etag="4xvd83oxoxULdlGf0a5_" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T10:50:32.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NnQY0hpTDyoQYBqWC3FO" version="23.1.5" type="github">
   <diagram name="第 1 页" id="KWD9YYWFuL8m4d8oPABw">
-    <mxGraphModel>
+    <mxGraphModel dx="1659" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MKCqsdWIsKqImVhh_tue-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-10" target="MKCqsdWIsKqImVhh_tue-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-10" value="发送请求&lt;br&gt;response拦截" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="230.1111111111111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-11" value="是否过滤该api" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="367" y="200" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-14" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="478" y="200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-15" value="return response" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-21" target="MKCqsdWIsKqImVhh_tue-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-21" value="是否存在清洗函数" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="340" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-22" value="预存response中的商详数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-24" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="418" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-27" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="348" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-28" target="MKCqsdWIsKqImVhh_tue-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKCqsdWIsKqImVhh_tue-28" target="MKCqsdWIsKqImVhh_tue-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-28" value="是否存在商品相关字段" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-29" value="throw&amp;nbsp; new Error(&#39;该api是否需要过滤&#39;)&lt;br&gt;return response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-31" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="703" y="348" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKCqsdWIsKqImVhh_tue-32" value="throw&amp;nbsp; new Error(&#39;该api未添加清洗函数&#39;)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;return response" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="576.5" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
